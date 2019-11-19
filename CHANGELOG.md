@@ -1,3 +1,11 @@
+# 1.0.0 (2019-11-19)
+
+
+### Features
+
+* override section content ([1080e23](https://github.com/eliasnorrby/portfolio-gatsby/commit/1080e23759169a4fcac22d8e4bac48e76990afad))
+* personalize intro ([bd9d143](https://github.com/eliasnorrby/portfolio-gatsby/commit/bd9d143bdb648b2bd609154bb858628533eec762))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
