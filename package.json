@@ -1,9 +1,8 @@
 {
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
-  "version": "0.0.14",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "name": "Portfolio",
+  "description": "Portfolio for Elias Norrby, developer, musician & photographer",
+  "author": "Elias Norrby <elias.norrby@gmail.com>",
   "license": "MIT",
   "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
@@ -17,7 +16,6 @@
     "check-format": "prettier --list-different '**/*.{js,jsx,ts,tsx,html,vue,css,less,scss,graphql,yaml,yml,json,md,mdx}'",
     "format": "prettier --write '**/*.{js,jsx,ts,tsx,html,vue,css,less,scss,graphql,yaml,yml,json,md,mdx}'",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 0"
-
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-cara": "^1.0.11",
