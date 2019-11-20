@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.0.0...v1.1.0) (2019-11-20)
+
+
+### Features
+
+* reorganize project cards ([ab231c6](https://github.com/eliasnorrby/portfolio-gatsby/commit/ab231c623956843f5f91f561d44edf691a2f5d47))
+* rewrite project info ([462d6f9](https://github.com/eliasnorrby/portfolio-gatsby/commit/462d6f956fb21f31bf341c60c2f6d43e04464b17))
+
 # 1.0.0 (2019-11-19)
 
 
