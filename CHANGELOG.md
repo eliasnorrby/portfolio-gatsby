@@ -1,3 +1,16 @@
+# [1.2.0](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.1.0...v1.2.0) (2019-12-04)
+
+
+### Bug Fixes
+
+* shadow Cara component to improve responsiveness ([c64832b](https://github.com/eliasnorrby/portfolio-gatsby/commit/c64832b8a9ccab5e5e6229a907eb2c3291318d85))
+
+
+### Features
+
+* update About text ([a6ecfe5](https://github.com/eliasnorrby/portfolio-gatsby/commit/a6ecfe59b6c485731fd6f25575e3a3c2b5641396))
+* update favicons ([13e8bcd](https://github.com/eliasnorrby/portfolio-gatsby/commit/13e8bcdb725cee904661d6d9ef5242d923e46574))
+
 # [1.1.0](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.0.0...v1.1.0) (2019-11-20)
 
 
