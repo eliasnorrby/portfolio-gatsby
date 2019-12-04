@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.2.0...v1.2.1) (2019-12-04)
+
+
+### Bug Fixes
+
+* add mailto to email link ([a9576ee](https://github.com/eliasnorrby/portfolio-gatsby/commit/a9576ee1e31174b106488ac632fdb55b367cc437)), closes [#3](https://github.com/eliasnorrby/portfolio-gatsby/issues/3)
+
 # [1.2.0](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.1.0...v1.2.0) (2019-12-04)
 
 
