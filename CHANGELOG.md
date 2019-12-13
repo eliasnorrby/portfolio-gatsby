@@ -1,3 +1,19 @@
+# [1.3.0](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.2.1...v1.3.0) (2019-12-13)
+
+
+### Bug Fixes
+
+* missing word in about ([f85fe2c](https://github.com/eliasnorrby/portfolio-gatsby/commit/f85fe2cbaa90903c2740112fcc18e1af48bda48b))
+* remove basePath from gatsby-config ([2b9c641](https://github.com/eliasnorrby/portfolio-gatsby/commit/2b9c641c5159bf644d96f48860681252facbf3c4))
+* replace - with ndash ([a4ab98b](https://github.com/eliasnorrby/portfolio-gatsby/commit/a4ab98bb0fea851a06710cb4943144f3abce3269))
+* update siteMetadata in gatsby-config ([c67ceb0](https://github.com/eliasnorrby/portfolio-gatsby/commit/c67ceb0215bb544e81158637a16245312110076a))
+
+
+### Features
+
+* add banner.png ([a5a9cab](https://github.com/eliasnorrby/portfolio-gatsby/commit/a5a9cabebef86d501cbb3a774011a573a0239ee2))
+* update intro ([24f0071](https://github.com/eliasnorrby/portfolio-gatsby/commit/24f0071357dcf9fbd348c87da491a188811365cf))
+
 ## [1.2.1](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.2.0...v1.2.1) (2019-12-04)
 
 
