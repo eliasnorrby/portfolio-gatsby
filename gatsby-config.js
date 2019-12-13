@@ -4,6 +4,15 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
+    siteTitle: `Elias Norrby`,
+    siteTitleAlt: `Elias Norrby - Portfolio`,
+    siteHeadline: `Elias Norrby - Portfolio`,
+    siteUrl: `https://eliasnorrby.com`,
+    siteDescription: `Portfolio for Elias Norrby, developer, musician & photographer`,
+    siteLanguage: `en`,
+    siteImage: `/banner.png`,
+    author: `@eliasnorrby`,
+    basePath,
     siteTitleAlt: `Elias Norrby - Portfolio`,
   },
   plugins: [
