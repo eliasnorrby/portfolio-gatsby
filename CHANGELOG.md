@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.0...v1.3.1) (2019-12-13)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump npm from 6.13.1 to 6.13.4 ([59f1296](https://github.com/eliasnorrby/portfolio-gatsby/commit/59f129608f3562d5915b096de14f76ddd6bc8895))
+
 # [1.3.0](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.2.1...v1.3.0) (2019-12-13)
 
 
