@@ -12,8 +12,6 @@ module.exports = {
     siteLanguage: `en`,
     siteImage: `/banner.png`,
     author: `@eliasnorrby`,
-    basePath,
-    siteTitleAlt: `Elias Norrby - Portfolio`,
   },
   plugins: [
     {
