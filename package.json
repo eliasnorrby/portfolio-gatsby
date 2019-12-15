@@ -34,7 +34,7 @@
     "@eliasnorrby/commitlint-config": "^2.2.0",
     "@eliasnorrby/prettier-config": "^2.4.0",
     "@eliasnorrby/semantic-release-config": "^2.0.0",
-    "cross-env": "^5.2.0",
+    "cross-env": "^6.0.3",
     "husky": "^3.1.0",
     "prettier": "^1.19.1",
     "semantic-release": "^15.13.31"
