@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.3...v1.3.4) (2019-12-15)
+
+
+### Bug Fixes
+
+* **deps:** bump gatsby from 2.18.0 to 2.18.12 ([f2a78fa](https://github.com/eliasnorrby/portfolio-gatsby/commit/f2a78fa9cdcfc2661ee9aa1e3da557d6344e905b))
+
 ## [1.3.3](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.2...v1.3.3) (2019-12-15)
 
 
