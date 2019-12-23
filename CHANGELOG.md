@@ -1,3 +1,10 @@
+## [1.3.6](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.5...v1.3.6) (2019-12-23)
+
+
+### Bug Fixes
+
+* **deps:** bump gatsby-plugin-offline from 3.0.29 to 3.0.30 ([9ed6e74](https://github.com/eliasnorrby/portfolio-gatsby/commit/9ed6e74ed46ccc9e96e503b8832d93765ecae3a6))
+
 ## [1.3.5](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.4...v1.3.5) (2019-12-16)
 
 
