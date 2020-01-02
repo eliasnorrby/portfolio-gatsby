@@ -20,3 +20,5 @@ notifications:
       secure: eJ0S1lf4FKWD9niXt3ickbs11+usXQ8+BoAh4brROb1nI7nN7SY3/yB9lvMYP0ruLra0U3flbiRoecYaYKsZbqsuS7O9DudzVNsv9NVJEnB37xJovYC1QOiA0gt5pRLs+6i5C7SHxsYGamt35PtvkIwE+t5ZgpbJpAuMNibceoHvuaQ04EMbrghzmQA30b8WrMtidibI1Q0C9tvB0PPyIjTU5XCN9MuGZSA3qKciVexevyMWtVziqVS4NZ9eUCK7HEatWQxNuHVg88tb/pUo4GAzPesHeVqqIfnKy4cG+6KPRb4O3Ukqf9EeRCwnYbqvXP/Cz8mLGFYwk940mPwYlpxwGjqwQpNy5nIwwFmp6jOd7zSlm3kesRjF6QZKD3pLNoq5VUXWwo1Zgc3GM8ijjknjfYSOnyolcIN3QDUd0QZvniyzforT55cPiJrVTZCDD80mpqDDHc1IiWD+dwJZO1Jg7zi00oHVVviQ869RiZwyKkiLVNB9O0DoitVM9fU/lAkym7yIOriHFJ82PoF9JGXRFyz/lXq4WkeD4Ze/LUlgR+/1Y1CYVuWZcyRkcdsvdBCokAgDWczcTTx4PUYT7loeufHenU+zFhYNrsJ0ALrPhp1B0UK5RIaOHk4A4uOdwseb8z3lUtTogwKesoOnmzMRhc0L+XgoQBZXzvnucKw=
     template:
       - "Build <%{build_url}|%{result}> for %{repository_slug}@%{branch} (<%{compare_url}|%{commit}>)"
+    on_success: change
+    on_failure: always
