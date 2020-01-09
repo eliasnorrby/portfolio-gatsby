@@ -1,3 +1,11 @@
+## [1.3.12](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.11...v1.3.12) (2020-01-09)
+
+
+### Bug Fixes
+
+* **about:** reword ([4dbebcc](https://github.com/eliasnorrby/portfolio-gatsby/commit/4dbebcc69f135509146ad2b44f9b94b0a3f04656))
+* **projects:** correct spelling and add projects ([25c026f](https://github.com/eliasnorrby/portfolio-gatsby/commit/25c026f6bfe75593311c275f00ab3d594ab71932))
+
 ## [1.3.11](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.10...v1.3.11) (2020-01-06)
 
 
