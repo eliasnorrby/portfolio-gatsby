@@ -1,3 +1,10 @@
+## [1.3.13](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.12...v1.3.13) (2020-01-13)
+
+
+### Bug Fixes
+
+* **deps:** bump gatsby-plugin-netlify from 2.1.30 to 2.1.31 ([9c112a6](https://github.com/eliasnorrby/portfolio-gatsby/commit/9c112a68e53e568993c946548caf28bc30278cdb))
+
 ## [1.3.12](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.11...v1.3.12) (2020-01-09)
 
 
