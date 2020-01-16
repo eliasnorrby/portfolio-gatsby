@@ -1,3 +1,10 @@
+## [1.3.16](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.15...v1.3.16) (2020-01-16)
+
+
+### Bug Fixes
+
+* **deps:** bump gatsby-plugin-google-analytics from 2.1.31 to 2.1.33 ([41ddeab](https://github.com/eliasnorrby/portfolio-gatsby/commit/41ddeab93e089be4f4f5be8995633e017f8bcf37))
+
 ## [1.3.15](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.14...v1.3.15) (2020-01-16)
 
 
