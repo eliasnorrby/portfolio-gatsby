@@ -1,3 +1,10 @@
+## [1.3.31](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.30...v1.3.31) (2020-03-08)
+
+
+### Bug Fixes
+
+* **deps:** bump gatsby-plugin-manifest from 2.2.39 to 2.2.44 ([8b3d318](https://github.com/eliasnorrby/portfolio-gatsby/commit/8b3d3180fdda325b2b60942ef409735aea1cf39f))
+
 ## [1.3.30](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.29...v1.3.30) (2020-03-08)
 
 
