@@ -1,3 +1,10 @@
+## [1.3.28](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.27...v1.3.28) (2020-03-08)
+
+
+### Bug Fixes
+
+* **deps:** bump react-dom from 16.12.0 to 16.13.0 ([a98fbeb](https://github.com/eliasnorrby/portfolio-gatsby/commit/a98fbeb6572e7ac7029d90b04f69ed17c8229799))
+
 ## [1.3.27](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.26...v1.3.27) (2020-03-08)
 
 
