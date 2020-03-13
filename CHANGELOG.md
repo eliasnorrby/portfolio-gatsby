@@ -1,3 +1,10 @@
+## [1.3.33](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.32...v1.3.33) (2020-03-13)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump acorn from 6.4.0 to 6.4.1 ([43e45e2](https://github.com/eliasnorrby/portfolio-gatsby/commit/43e45e2ca6ded9a8efc59800733c503c83b76cd0))
+
 ## [1.3.32](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.31...v1.3.32) (2020-03-09)
 
 
