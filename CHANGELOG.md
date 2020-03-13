@@ -1,3 +1,10 @@
+## [1.3.34](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.33...v1.3.34) (2020-03-13)
+
+
+### Bug Fixes
+
+* **deps:** bump @lekoarts/gatsby-theme-cara from 1.0.18 to 1.1.1 ([683e614](https://github.com/eliasnorrby/portfolio-gatsby/commit/683e61469e8333fac5955425b355cfa759798ad9))
+
 ## [1.3.33](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.32...v1.3.33) (2020-03-13)
 
 
