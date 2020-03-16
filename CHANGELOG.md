@@ -1,3 +1,10 @@
+## [1.3.37](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.36...v1.3.37) (2020-03-16)
+
+
+### Bug Fixes
+
+* **deps:** bump gatsby from 2.19.32 to 2.19.43 ([2ee03dc](https://github.com/eliasnorrby/portfolio-gatsby/commit/2ee03dcba9c675d8afcd6a4bd8452088fdfc55ab))
+
 ## [1.3.36](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.35...v1.3.36) (2020-03-16)
 
 
