@@ -14,7 +14,7 @@ update_configs:
           update_type: "all"
       - match:
           dependency_type: "production"
-          update_type: "semver:patch"
+          update_type: "semver:minor"
     version_requirement_updates: widen_ranges
     default_reviewers:
       - "eliasnorrby"
