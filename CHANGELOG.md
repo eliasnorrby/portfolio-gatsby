@@ -1,3 +1,10 @@
+## [1.3.38](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.37...v1.3.38) (2020-03-30)
+
+
+### Bug Fixes
+
+* **deps:** bump react from 16.13.0 to 16.13.1 ([d7884cc](https://github.com/eliasnorrby/portfolio-gatsby/commit/d7884cc153b9057e02708fdd1d65a829efd0a5e6))
+
 ## [1.3.37](https://github.com/eliasnorrby/portfolio-gatsby/compare/v1.3.36...v1.3.37) (2020-03-16)
 
 
