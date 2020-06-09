@@ -3,7 +3,7 @@ version: 1
 update_configs:
   - package_manager: "javascript"
     directory: "/"
-    update_schedule: "weekly"
+    update_schedule: "monthly"
     commit_message:
       prefix: "fix"
       prefix_development: "chore"
