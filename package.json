@@ -30,7 +30,7 @@
     "react-responsive": "^8.0.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^11.0.0",
+    "@commitlint/cli": "^13.2.1",
     "@eliasnorrby/commitlint-config": "^2.2.0",
     "@eliasnorrby/prettier-config": "^4.2.30",
     "@eliasnorrby/semantic-release-config": "^3.0.23",
