@@ -37,7 +37,7 @@
     "cross-env": "^7.0.0",
     "husky": "^4.2.1",
     "prettier": "^2.4.1",
-    "semantic-release": "^17.2.3"
+    "semantic-release": "^19.0.5"
   },
   "husky": {
     "hooks": {
